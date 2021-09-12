@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on a front end project
 - 📫 How to reach me
   email: ravishankarsinghnissan56378@gmail.com
+  Skill: HTML, CSS, JavaScript, SASS, mySQL(Beginner), PHP(Intermediate)
 
 <!---
 ravishankarsingh56378nishan/ravishankarsingh56378nishan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
